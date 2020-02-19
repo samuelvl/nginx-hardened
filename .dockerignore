@@ -1,0 +1,7 @@
+# By default, ignore everything
+*
+
+# Allow files and directories
+!configuration/
+!website/
+!certs/template
