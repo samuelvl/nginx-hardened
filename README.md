@@ -1,4 +1,4 @@
-# Nginx basics
+# Nginx hardened
 
 Deploy nginx with optimal configuration and enforced security.
 
